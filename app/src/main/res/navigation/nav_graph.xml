@@ -17,5 +17,11 @@
         android:label="Help"
         tools:layout="@layout/fragment_help"
         />
+    <fragment
+        android:id="@+id/sentItemsFragment"
+        android:name="com.derkun.mar.SentItemsFragment"
+        android:label="Sent Items"
+        tools:layout="@layout/fragment_sent_items"
+        />
 
 </navigation>
